@@ -67,13 +67,12 @@ credit-solvency-assessment/
 ├── data.py                                   # Data pipeline script
 ├── .gitignore                                # Git ignore rules
 ├── README.md                                 # Project overview and setup guide
-├── requirements.txt
+├── requirements.txt                          # Python dependencies
 ├── .gitattributes
 ├── Presentation.pdf
 ├── Presentation.pptx
 └── infographic.png
-
-                       # Python dependencies
+                       
 ```
 
 ---
