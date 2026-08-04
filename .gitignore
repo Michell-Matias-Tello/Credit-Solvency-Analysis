@@ -16,12 +16,8 @@ env/
 *.swp
 *.swo
 
-# Local data
-# data/
-
 # System files
 .DS_Store
 Thumbs.db
 
-# Output files
-/outputs/
+
